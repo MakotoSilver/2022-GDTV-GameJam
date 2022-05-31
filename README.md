@@ -1,6 +1,6 @@
 # 2022-GDTV-GameJam
 
-https://makotosilver.itch.io/the-spirit-walker
+To play in browser go to: https://makotosilver.itch.io/the-spirit-walker
 
 Made on Godot 3.4.4
 
