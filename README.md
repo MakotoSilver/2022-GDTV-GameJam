@@ -1,7 +1,7 @@
 # 2022-GDTV-GameJam
 
-Made on Godot 3.4.4
+https://makotosilver.itch.io/the-spirit-walker
 
-extract zip and run with Godot!
+Made on Godot 3.4.4
 
 NOTE: Music is NOT in public domain. Do not use without permission!
